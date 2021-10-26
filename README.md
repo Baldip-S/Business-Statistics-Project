@@ -2,7 +2,9 @@
 
 Final project for the course Fundamentals of Business Statistics.
 
-Analysis has been conducted solely through RStudio.
+The project deals with the UCI - Turbine Emissions data set and a randomly generated sales data set.
+
+Regression and Forecasting analysis has been conducted solely through RStudio.
 
 Visualisations found within the report created using MS Tableau.
 
